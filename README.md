@@ -72,6 +72,8 @@ flowchart LR
 - ### **M**
 [Manasseh Kinyua](https://github.com/GeminiKinyua)
 
+[Mohamed Muhsin](https://github.com/mohamuhsin)
+
 [Moses Borore](https://github.com/mosesborore)
 - ### **N**
 [Nura Mohamed](https://github.com/Nura-mohamed)
